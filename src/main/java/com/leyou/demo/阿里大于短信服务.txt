@@ -1,0 +1,11 @@
+AccessKey ID
+LTAI4FeY7Wtfht4dz38HL5Nw
+
+AccessKeySecret
+DvLkqsEmGI4zMXr9bzW20dWD5UqFls
+
+签名名称
+乐优商城
+
+短信模板
+SMS_181866043
